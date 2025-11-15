@@ -99,6 +99,7 @@ const Footer = () => {
               <a href="#" className="hover:text-primary transition-colors">Cookie Policy</a>
             </div>
           </div>
+          {/* .. */}
         </div>
       </div>
     </footer>
